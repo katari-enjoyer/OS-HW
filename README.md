@@ -14,12 +14,8 @@
 ##### Команды для проверки:
 
 ```
-gcc 7.c
-gcc ./a.out input.txt output.txt
+gcc 6.c
+./a.out input.txt output.txt
 ```
 
-- Разница между 7.s и ref.s
-```
-7.s - 161 lines (161 sloc) 3.22 KB
-ref.s - 165 lines (165 sloc) 2.93 KB
-```
+
