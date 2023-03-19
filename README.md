@@ -111,9 +111,9 @@
 
 Файл | Тест           | Результат | 
 -----------|----------------|:---------:|
-5.c     | ABBAbba    | abbABBA | 
-5.c     | green apple	   | elppa neerg | 
-5.c     | 123 abc	  | cba 321 | 
-5.c     | cybersport 2023	 | 3202 tropsrebyc |
-5.с    | hochu 6 ballov	  | vollab 6 uhcoh | 
+6.c     | ABBAbba    | abbABBA | 
+6.c     | green apple	   | elppa neerg | 
+6.c     | 123 abc	  | cba 321 | 
+6.c     | cybersport 2023	 | 3202 tropsrebyc |
+6.с    | hochu 6 ballov	  | vollab 6 uhcoh | 
 
